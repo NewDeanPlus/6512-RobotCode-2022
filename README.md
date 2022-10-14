@@ -1,2 +1,2 @@
-# RobotCode21-22
-Team 6512 Robot Code for 2021-2022 Season
+# Team 6512 Robot Code (2021-2022)
+This is the finalized robot code for our robot code for the 2021-2022 Season, as used at the THOR event on 10/15. We built this using Java with the WPILIB robot builder as a base. This can be used as a reference for future robot projects, but please take things with a grain of salt as this is ver disorganized code with potentially missing documentation in some places. This is also not specifically codensed, concise, or neccecarily efficient. All useful Java code is avaliable inside the `src/main` folder, so make sure to look in there and in its subfolders. I was not able to upload the `build` folder, although a new copy should be created if everything is run.
